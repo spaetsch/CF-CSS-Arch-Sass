@@ -1,2 +1,2 @@
-# css-architecture
-Week 2 of CF Front-End Dev Accelerator
+# css-architecture Redux
+Sassification of earlier project
