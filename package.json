@@ -1,0 +1,23 @@
+{
+  "name": "CSS-Arch-Redux",
+  "version": "0.1.0",
+  "description": "refactor with Sass",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spaetsch/CSS-Arch-Redux.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spaetsch/CSS-Arch-Redux/issues"
+  },
+  "homepage": "https://github.com/spaetsch/CSS-Arch-Redux",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.3"
+  }
+}
