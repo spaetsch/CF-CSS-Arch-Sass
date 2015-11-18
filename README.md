@@ -1,2 +1,3 @@
-# css-architecture Redux
-Sassification of earlier project
+###Code Fellows - Front End Development
+#### css-architecture Redux
+ - Exercise in converting style to Sass
